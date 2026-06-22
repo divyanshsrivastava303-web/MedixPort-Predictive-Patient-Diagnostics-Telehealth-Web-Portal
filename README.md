@@ -14,16 +14,3 @@ MedixPort is an advanced healthcare diagnostics web application designed to assi
 - **Analytics & Plots**: Plotly Express, NumPy
 - **Algorithm Backend**: Scikit-Learn (Decision Classifier)
 
-## Setup and Local Execution
-
-### 1. Install Dependencies
-```bash
-pip install -r requirements.txt
-```
-
-### 2. Run the Web Application
-```bash
-streamlit run app.py
-```
-
----
