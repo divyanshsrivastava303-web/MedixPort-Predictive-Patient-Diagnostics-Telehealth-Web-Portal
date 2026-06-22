@@ -27,10 +27,3 @@ streamlit run app.py
 ```
 
 ---
-
-
-1. **Upload the code** to a new repository on your GitHub account.
-2. Go to **[share.streamlit.io](https://share.streamlit.io)** and log in with your GitHub account.
-3. Click **New app**, select your repository, branch (`main`), and path to the entry file (`app.py`).
-4. Click **Deploy!** 
-5. Within 1 minute, you will receive a public URL (e.g., `https://medixport.streamlit.app`) that you can screen share live to show it works!
