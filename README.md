@@ -28,8 +28,6 @@ streamlit run app.py
 
 ---
 
-## ☁️ How to Host This Web App Online (Free & Instant)
-Streamlit apps are the easiest to host for live screen sharing.
 
 1. **Upload the code** to a new repository on your GitHub account.
 2. Go to **[share.streamlit.io](https://share.streamlit.io)** and log in with your GitHub account.
